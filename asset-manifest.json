@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.15f9b967.css",
+    "main.js": "/portfolio/static/js/main.a6213f54.js",
+    "static/media/dragonBall.png": "/portfolio/static/media/dragonBall.0db2685eaa09724179b3.png",
+    "static/media/carrossel.png": "/portfolio/static/media/carrossel.95126f1a95d71b2ee4b5.png",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.9e192f75e984793467aa.png",
+    "static/media/Curriculum - João de Deus Rodrigues da Silva Filho - DEV.pdf": "/portfolio/static/media/Curriculum - João de Deus Rodrigues da Silva Filho - DEV.5a1fc36c8a494cdab074.pdf",
+    "static/media/02.jpeg": "/portfolio/static/media/02.319b32a44f40fe4e2d78.jpeg",
+    "static/media/paginaDeLogin.png": "/portfolio/static/media/paginaDeLogin.e9830ecd1cab58709411.png",
+    "static/media/analizarNumero.png": "/portfolio/static/media/analizarNumero.3d0cc5b969c23d72b863.png",
+    "static/media/contadorDeNumeros.png": "/portfolio/static/media/contadorDeNumeros.b4bf7bc84a3ea06f0f0e.png",
+    "static/media/tabuada.png": "/portfolio/static/media/tabuada.1bde17c6ef0cd690f039.png",
+    "static/media/calculadora.png": "/portfolio/static/media/calculadora.f287309c8969ed8457e5.png",
+    "static/media/tecnologias.png": "/portfolio/static/media/tecnologias.94526aeb3b1b8a46981b.png",
+    "index.html": "/portfolio/index.html",
+    "main.15f9b967.css.map": "/portfolio/static/css/main.15f9b967.css.map",
+    "main.a6213f54.js.map": "/portfolio/static/js/main.a6213f54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f9b967.css",
+    "static/js/main.a6213f54.js"
+  ]
+}
