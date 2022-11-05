@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.94fe8443.css",
-    "main.js": "/portfolio/static/js/main.5c4c2988.js",
+    "main.js": "/portfolio/static/js/main.ed5e5401.js",
     "static/media/dragonBall.png": "/portfolio/static/media/dragonBall.0db2685eaa09724179b3.png",
     "static/media/carrossel.png": "/portfolio/static/media/carrossel.95126f1a95d71b2ee4b5.png",
     "static/media/instagram.png": "/portfolio/static/media/instagram.9e192f75e984793467aa.png",
-    "static/media/Curriculum - João de Deus - FRONT END.pdf": "/portfolio/static/media/Curriculum - João de Deus - FRONT END.7c447cdc3a8c357b2af4.pdf",
+    "static/media/Curriculum - João de Deus - FRONT END.pdf": "/portfolio/static/media/Curriculum - João de Deus - FRONT END.dedaf1c476c34fabf9a0.pdf",
     "static/media/02.jpeg": "/portfolio/static/media/02.319b32a44f40fe4e2d78.jpeg",
     "static/media/paginaDeLogin.png": "/portfolio/static/media/paginaDeLogin.e9830ecd1cab58709411.png",
     "static/media/analizarNumero.png": "/portfolio/static/media/analizarNumero.3d0cc5b969c23d72b863.png",
@@ -15,10 +15,10 @@
     "static/media/tecnologias.png": "/portfolio/static/media/tecnologias.94526aeb3b1b8a46981b.png",
     "index.html": "/portfolio/index.html",
     "main.94fe8443.css.map": "/portfolio/static/css/main.94fe8443.css.map",
-    "main.5c4c2988.js.map": "/portfolio/static/js/main.5c4c2988.js.map"
+    "main.ed5e5401.js.map": "/portfolio/static/js/main.ed5e5401.js.map"
   },
   "entrypoints": [
     "static/css/main.94fe8443.css",
-    "static/js/main.5c4c2988.js"
+    "static/js/main.ed5e5401.js"
   ]
 }
