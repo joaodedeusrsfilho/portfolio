@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2d093cf5.css",
+    "main.css": "/portfolio/static/css/main.4dae707a.css",
     "main.js": "/portfolio/static/js/main.ac3c7750.js",
     "static/media/dragonBall.png": "/portfolio/static/media/dragonBall.0db2685eaa09724179b3.png",
     "static/media/carrossel.png": "/portfolio/static/media/carrossel.95126f1a95d71b2ee4b5.png",
@@ -14,11 +14,11 @@
     "static/media/calculadora.png": "/portfolio/static/media/calculadora.f287309c8969ed8457e5.png",
     "static/media/tecnologias.png": "/portfolio/static/media/tecnologias.94526aeb3b1b8a46981b.png",
     "index.html": "/portfolio/index.html",
-    "main.2d093cf5.css.map": "/portfolio/static/css/main.2d093cf5.css.map",
+    "main.4dae707a.css.map": "/portfolio/static/css/main.4dae707a.css.map",
     "main.ac3c7750.js.map": "/portfolio/static/js/main.ac3c7750.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d093cf5.css",
+    "static/css/main.4dae707a.css",
     "static/js/main.ac3c7750.js"
   ]
 }
